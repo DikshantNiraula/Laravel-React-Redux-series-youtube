@@ -4,7 +4,9 @@ In this site we have made an api for adding post, getting post and deleting post
 and use it in react to perform action from UI without refreshing of page.
 
 This is made beautifully using react redux.
-Alt text This site looks like this and is made using Materialize css
+This site looks like this and is made using Materialize css
+
+![Alt text](./Laravel React Redux 5-10-2020 8-18-11 AM.png?raw=true "Title")
 
 To use this we can simply
 
