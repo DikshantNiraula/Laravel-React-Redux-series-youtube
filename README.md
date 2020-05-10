@@ -6,7 +6,7 @@ and use it in react to perform action from UI without refreshing of page.
 This is made beautifully using react redux.
 This site looks like this and is made using Materialize css
 
-![Alt text](./Laravel React Redux 5-10-2020 8-18-11 AM.png?raw=true "Title")
+![Alt text](./Laravel%20React%20Redux%205-10-2020%208-18-11%20AM.png?raw=true "Title")
 
 To use this we can simply
 
